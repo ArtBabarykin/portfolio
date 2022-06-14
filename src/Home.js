@@ -38,7 +38,7 @@ function Home() {
   return (
     <section id="home">
       <video autoPlay loop muted>
-        <source src="./hero_video.mp4" type="video/mp4" />
+        <source src="portfolio/hero_video.mp4" type="video/mp4" />
       </video>
       <header>
         <div className="header__links">

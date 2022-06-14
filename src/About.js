@@ -3,7 +3,7 @@ import { CgChevronUpO } from "react-icons/cg";
 import "./About.css";
 
 function About() {
-  const aboutImg = "./photo_avatar.jpeg";
+  const aboutImg = "portfolio/photo_avatar.jpeg";
   window.addEventListener("scroll", () =>
     document
       .querySelector(".go_to_top")
