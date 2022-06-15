@@ -1,10 +1,10 @@
 export const projects_data = [
   {
     id: 0,
-    title: "Edge Ledger",
-    img: "./edgeLedger.png",
-    source_code: "https://github.com/ArtBabarykin/EdgeLedger",
-    url: "https://artbabarykin.github.io/EdgeLedger/",
+    title: "Weather App",
+    img: "./weatherApp.png",
+    source_code: "https://github.com/ArtBabarykin/weatherApp",
+    url: "https://artbabarykin.github.io/weatherApp/",
   },
   {
     id: 1,
@@ -29,11 +29,12 @@ export const projects_data = [
   },
   {
     id: 4,
-    title: "Weather App",
-    img: "./weatherApp.png",
-    source_code: "https://github.com/ArtBabarykin/weatherApp",
-    url: "https://artbabarykin.github.io/weatherApp/",
+    title: "Edge Ledger",
+    img: "./edgeLedger.png",
+    source_code: "https://github.com/ArtBabarykin/EdgeLedger",
+    url: "https://artbabarykin.github.io/EdgeLedger/",
   },
+
   {
     id: 5,
     title: "Gmail Inbox Example",
