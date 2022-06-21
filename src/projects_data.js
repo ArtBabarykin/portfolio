@@ -23,7 +23,7 @@ export const projects_data = [
   {
     id: 3,
     title: "LinkedIn Feed Example",
-    img: "./linkedIn.jpeg",
+    img: "./linkedIn.png",
     source_code: "https://github.com/ArtBabarykin/linkedIn-feed",
     url: "https://linkedin-clone-eec88.web.app/",
   },
